@@ -38,10 +38,10 @@ Depois é só abrir o endereço mostrado no terminal(geralmente `http://localhos
 Usei o Claude (Anthropic) como apoio durante todo o desenvolvimento do projeto -- desde a escolha da API até a estruturação dos componentes React. Como eu não tinha experiência prévia com React, a IA foi essencial para eu entender a lógica por trás de cada peça (componentes, props, hooks) antes de escrever o código, e para me dar segurança para avançar em cada etapa.
 
 ### Prompt utilizado
-"Me sugira algumas opções de API púplica, gratuitas, sem necessidade de configuração complicada, para eu escolher uma para o meu projeto."
+"Eu prefiro que voc~e me explique a lógica por trás de cada peça. Depois, você me manda um arquivo por vez, explicando o que cada trecho faz, enquanto eu digito."
 
 ### Objetivo
-Eu não sabia por onde começar a escolher uma API para o projeto. Pedir sugestões me ajudou a entender as opções disponíveis e escolher uma (ThemealDB) que fizesse sentido para o tipo de aplicação que eu queria construir.
+Eu queria entender a lógica do projeto antes de escrever o código, e não só copiar. Com esse prompt, a IA me explicou os conceitos(componentes, props, useState, useEffect) e depois me guiou arquivo por arquivo, e eu digitei e revisei cada um.
 
 ### Como a IA foi usada ao longo do projeto
 Além da escolha da API, usei a IA para:
