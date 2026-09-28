@@ -34,7 +34,7 @@ Depois é só abrir o endereço mostrado no terminal(geralmente `http://localhos
 ## Aplicação publicada
 [sabor-em-foco.vercel.app](https://sabor-em-foco.vercel.app)
 
-## Uso de Imteligência Artificial
+## Uso de Inteligência Artificial
 Usei o Claude (Anthropic) como apoio durante todo o desenvolvimento do projeto -- desde a escolha da API até a estruturação dos componentes React. Como eu não tinha experiência prévia com React, a IA foi essencial para eu entender a lógica por trás de cada peça (componentes, props, hooks) antes de escrever o código, e para me dar segurança para avançar em cada etapa.
 
 ### Prompt utilizado
